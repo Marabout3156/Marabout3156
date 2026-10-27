@@ -22,4 +22,4 @@ Je construis des outils web simples et utiles pour les PME.
 
 ### Me contacter
 
-📧 [safe.skills.pro@gmail.com](mailto:safe.skills.pro@gmail.com) · 🌐 [safeskills.website](https://www.safeskills.website)
+📧 [mathys.calero@gmail.com](mailto:mathys.calero@gmail.com) · 🌐 [safeskills.website](https://www.safeskills.website)
